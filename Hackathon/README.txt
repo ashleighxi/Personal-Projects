@@ -1,0 +1,1 @@
+This folder is for all items related to the DerbyHacks 2 Hackathon (Starts 2/24/2017)
